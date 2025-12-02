@@ -1,28 +1,87 @@
-# portfolio-website-
-A clean, modern, and responsive Portfolio Website built using HTML and CSS, designed to showcase personal projects, skills, achievements, and contact information. This website serves as an online identity for developers, students, and creators who want to highlight their work in a visually appealing and professional way.
+🌐 Portfolio Website
 
-🚀 Features
+A clean, responsive, and modern Portfolio Website built using HTML and CSS.
+This website highlights personal details, skills, projects, education, and contact information in a simple yet attractive layout.
 
-Fully Responsive Layout – Works on mobile, tablet, and desktop
+📌 Features
 
-Modern UI Design – Clean typography, smooth layout, tech-themed styles
+Fully responsive design
 
-About Section – Highlight your background, interests, and profile
+Smooth layout and clean UI
 
-Skills Section – Display technical and soft skills using icons or bars
+Modern typography and colors
 
-Projects Section – Show your top projects with descriptions & links
+Sections for About, Skills, Projects, and Contact
 
-Contact Section – Email, social links, or contact form
+Easy to edit and customize
 
-Simple & Lightweight – Pure HTML and CSS, no frameworks
+No JavaScript required
 
-Easy to Customize – Change colors, fonts, and content easily
+📁 Folder Structure
+/
+│── index.html
+│── style.css
+│── images/   
+│── README.md
+
+🚀 How to Run
+
+Download or clone the repository:
+
+git clone https://github.com/vipulvarshney2006-lab/portfolio-website.git
+
+
+Open the folder:
+
+cd portfolio-website
+
+
+Run the website by opening:
+
+index.html
 
 🛠️ Technologies Used
 
-HTML5 – Structure of the website
+HTML5
 
-CSS3 – Styling, layout, animations, and responsive design
+CSS3
 
-Google Fonts / Icons – For a professional look
+Google Fonts (optional)
+
+Font Awesome icons (optional)
+
+📂 Website Sections
+
+Hero Section
+
+About Me
+
+Skills
+
+Projects
+
+Contact
+
+Footer
+
+📈 Future Enhancements
+
+Add JavaScript animations
+
+Add Dark/Light Mode
+
+Add backend for contact form
+
+Add project filter system
+
+🤝 Contributing
+
+Feel free to fork this project and create pull requests.
+Suggestions and improvements are always welcome.
+
+📬 Contact
+
+If you want to reach out:
+
+Email: vipulvarshney2006@gmail.com
+
